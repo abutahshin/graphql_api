@@ -1,13 +1,11 @@
 # GOLANG GRAPHQL MONGODB CRUD Project
 
-#### This is the accompanying code for my Youtube video with the same name (almost the same name)
-
 ##### Do the stuff below to initialize your project
 
 1. Create a new folder for the Project
 `mkdir gql-yt`
 2. Mod init your project, give it whatever name you like
-`go mod init github.com/akhil/gql-yt`
+`go mod init github.com/abutahshin/gql-yt`
 3. Get gql gen for your project
 `go get github.com/99designs/gqlgen`
 4. Add gqlgen to tools.go
