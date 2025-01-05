@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/akhil/gql/graph/model"
+	"github.com/abutahshin/gql/graph/model"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

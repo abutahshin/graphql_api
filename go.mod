@@ -1,4 +1,4 @@
-module github.com/akhil/gql
+module github.com/abutahshin/gql
 
 go 1.18
 

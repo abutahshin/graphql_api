@@ -6,9 +6,9 @@ package graph
 import (
 	"context"
 
-	"github.com/akhil/gql/database"
-	"github.com/akhil/gql/graph/generated"
-	"github.com/akhil/gql/graph/model"
+	"github.com/abutahshin/gql/database"
+	"github.com/abutahshin/gql/graph/generated"
+	"github.com/abutahshin/gql/graph/model"
 )
 
 // CreateJobListing is the resolver for the createJobListing field.
