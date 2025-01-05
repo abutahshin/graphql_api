@@ -11,7 +11,7 @@ import (
 	"github.com/abutahshin/gql/graph/generated"
 )
 
-const defaultPort = "8080"
+const defaultPort = "8085"
 
 func main() {
 	port := os.Getenv("PORT")

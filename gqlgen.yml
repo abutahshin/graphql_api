@@ -8,7 +8,7 @@ exec:
   package: generated
 
 # Uncoakhilmment to enable federation
-# federation:
+# federation
 #   filename: graph/generated/federation.go
 #   package: generated
 

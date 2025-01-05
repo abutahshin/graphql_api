@@ -2,6 +2,8 @@ module github.com/abutahshin/gql
 
 go 1.18
 
+//Okay
+
 require (
 	github.com/99designs/gqlgen v0.17.20
 	github.com/vektah/gqlparser/v2 v2.5.1
